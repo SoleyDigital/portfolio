@@ -65,7 +65,7 @@ export default function Portfolio() {
         <div className="mt-12">
           <h2 className="text-2xl font-bold text-gray-900">About Me</h2>
           <p className="mt-2 text-gray-600">
-            AWS Cloud Engineer with strong experience in IaC, CICD and Cloud Securityy.
+            AWS Cloud Engineer with strong experience in IaC, CICD and Cloud Security.
 
             I specialise in building scalable, available, and AI powered Cloud Platforms. 
           </p>
