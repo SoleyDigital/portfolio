@@ -41,10 +41,10 @@ export default function Portfolio() {
             className="mx-auto rounded-full"
           />
           <h1 className="mt-4 text-3xl font-extrabold text-gray-900 sm:text-4xl">
-            Soleyman Shahir
+            Soleyman
           </h1>
           <p className="mt-2 text-xl text-gray-600">
-            AWS Cloud Engineer
+            AWS AI Cloud Engineer
           </p>
           <div className="mt-4 flex justify-center space-x-4">
             <Link href="https://github.com" className="text-gray-600 hover:text-gray-900">
